@@ -41,3 +41,15 @@ margin-right: 20px;
   
   
 }
+
+
+.service_description{
+    padding-top: 70px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 14px;
+    
+}
+.service_description li{
+    list-style: none;
+}
